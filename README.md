@@ -36,5 +36,5 @@ In R, run those codes that download the required packages for running BasCoD.
 install.packages('MASS')
 ```
 
-Details about implementing codes can be found in the [Tutorial](https://github.com/keleslab/BasCoD/tree/main/code/scripts) of this github, which uses the [Abid et al.2018]([https://www.nature.com/articles/nmeth.4155](https://www.nature.com/articles/s41467-018-04608-8)) Mice protein data as a tutorial.
+Details about implementing codes can be found in the [Tutorial](https://github.com/keleslab/BasCoD/blob/main/code/scripts/BasCoD_tutorial.ipynb) of this github, which uses the [Abid et al.2018]([https://www.nature.com/articles/nmeth.4155](https://www.nature.com/articles/s41467-018-04608-8)) Mice protein data as a tutorial.
 
