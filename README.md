@@ -36,5 +36,9 @@ In R, run those codes that download the required packages for running BasCoD.
 install.packages('MASS')
 ```
 
-Details about implementing codes and reproducing Figures in the manuscript can be found in the [Tutorial](https://github.com/keleslab/BasCoD/blob/main/code/scripts/) of this github.
+Details about implementing codes and reproducing Figures in the manuscript can be found in the [Tutorial](https://github.com/keleslab/BasCoD/blob/main/code/scripts/) of this github. There are mainly three tutorials provided: 
 
+
+- Tutorial 1: [Mouse DS](https://github.com/keleslab/BasCoD/blob/main/code/scripts/Tutorial_Mouse_DS.ipynb)
+- Tutorial 2: [Jerber et al. population scale scRNA-seq](https://github.com/keleslab/BasCoD/blob/main/code/scripts/Tutorial_population_scRNA_Jer)
+- Tutorial 3: [HSPC erythroid differentiation analysis](https://github.com/keleslab/BasCoD/blob/main/code/scripts/Tutorial_inflammation_Liao.ipynb)
