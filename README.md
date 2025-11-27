@@ -42,6 +42,7 @@ Details about implementing codes and reproducing Figures in the manuscript can b
 - Tutorial 1: [Mouse DS data](https://github.com/keleslab/BasCoD/blob/main/code/scripts/Tutorial_Mouse_DS.ipynb)
 - Tutorial 2: [Jerber et al. population scale scRNA-seq data](https://github.com/keleslab/BasCoD/blob/main/code/scripts/Tutorial_population_scRNA_Jer)
 - Tutorial 3: [HSPC erythroid differentiation analysis data](https://github.com/keleslab/BasCoD/blob/main/code/scripts/Tutorial_inflammation_Liao.ipynb)
+- Tutorial 4: [Norman et al. Perturb-seq data with double perturbations](https://github.com/keleslab/BasCoD/blob/main/code/scripts/Tutorial_double_perturbation.ipynb)
 
 The required datasets can be found in the [Google Drive link](https://drive.google.com/drive/folders/1WOm1p2M4XI_K3g_Sr_J0ht3IZoQfRfBH?usp=drive_link).
 
