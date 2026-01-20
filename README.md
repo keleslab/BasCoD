@@ -1,18 +1,18 @@
 # BasCoD : Systematic **Ba**ckground **S**election for Enhanced **Co**ntrastive **D**imension Reduction
-![ELECT diagram](/figures/intro.png)
+![BasCoD diagram](/figures/intro.png)
 
 ## BasCoD Usage
 
 ### Preparation
 
 
-First of all, before cloning the MINTsC github package, go to the right directory that you would like to implement MINTsC. In the cmd terminal, do
+First of all, before cloning the BasCoD github package, go to the right directory that you would like to implement BasCoD. In the cmd terminal, do
 
 ```
 cd {BasCoD directory}
 ```
 
-then go on to the next step. {BasCoD directory} could be for example /storage10/kwangmoon/MINTsC.
+then go on to the next step. {BasCoD directory} could be for example /storage10/kwangmoon/BasCoD.
 
 
 #### 1. Repository clone
